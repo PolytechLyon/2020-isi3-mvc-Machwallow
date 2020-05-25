@@ -1,0 +1,29 @@
+canvas {
+  display: block;
+  margin: 2rem auto;
+}
+
+main {
+  display: flex;
+  align-items: center;
+  max-width: 42rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+nav {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  margin: 0.1rem;
+}
+
+nav button {
+  display: block;
+  margin: 0.2rem;
+}
+
+button {
+  font-size: 2rem;
+  font-weight: bold;
+}
